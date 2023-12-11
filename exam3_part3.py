@@ -1,6 +1,6 @@
 # Bailey Sauter
 # CSCI 5922 Fall 2023
-# Module 3 Assignment
+# Exam 3 Part 2
 
 import tensorflow as tf
 from tensorflow import keras
